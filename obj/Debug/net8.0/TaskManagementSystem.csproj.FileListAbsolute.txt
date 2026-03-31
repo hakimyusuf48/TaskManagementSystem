@@ -1,0 +1,14 @@
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.exe
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.deps.json
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.runtimeconfig.json
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.dll
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\bin\Debug\net8.0\TaskManagementSystem.pdb
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.AssemblyInfo.cs
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.dll
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\refint\TaskManagementSystem.dll
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.pdb
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\TaskManagementSystem.genruntimeconfig.cache
+C:\Users\Kim\Desktop\Csharp\Csharp_Basic\TaskManagementSystem\obj\Debug\net8.0\ref\TaskManagementSystem.dll
